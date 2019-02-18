@@ -1,0 +1,118 @@
+
+/* First section */
+.jumbotron {
+    text-align: center;
+    background: none;
+    padding-bottom: 1px;
+    padding-top: 3rem;
+}
+
+.sectionlight{
+    padding-bottom: 6rem;
+    background-color: #ffffff;
+}
+
+/* second section */
+.sectionDark{
+    padding: 3rem;
+    background: #3d3d37;
+    background-image: -webit-gradient(#829191 , #ffc9c9, #829191);
+    background-image: -moz-linear-gradient( #829191 , #ffc9c9, #829191);
+    background-image: -ms-gradient(#829191 , #ffc9c9, #829191);
+    background-image: linear-gradient(#829191 , #ffc9c9, #829191);
+    color: #000000;
+}
+
+.img-fluid.coneImage{
+    margin-top: 1rem;
+}
+
+.reviewWrapper{
+    margin-top: 1rem;
+}
+
+.darkSectionButton{
+   color: white;
+   background: #ff3f3f;
+   margin: auto;
+   display: block;
+
+}
+.darkSectionButton:hover{
+     color: #000000;
+} 
+
+/* modal part */
+
+h5.modal-title{ margin: auto;}
+
+
+.modalFormWrapper{
+    padding: 2rem;
+}
+
+
+img.foxImage{
+    margin: auto;
+    display: block;
+}
+.imgCenter{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    
+}
+.chocoText{
+    display:block;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* third section aka right before footer */
+.btnCenter{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 58%;
+}
+
+/* Footer */
+
+.mainFooter{
+    background: #343a40;
+}
+.footerImage{
+    padding: 1rem;
+}
+
+/* fa-icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    color: #ffffff;
+    margin:
+    
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    color: #55ACEE;
+  }
+.socialWrapp{
+    margin:auto;
+}
